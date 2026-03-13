@@ -1,0 +1,16 @@
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 19\Practica 19\bin\Debug\net10.0-windows\Practica 19.exe
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 19\Practica 19\bin\Debug\net10.0-windows\Practica 19.deps.json
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 19\Practica 19\bin\Debug\net10.0-windows\Practica 19.runtimeconfig.json
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 19\Practica 19\bin\Debug\net10.0-windows\Practica 19.dll
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 19\Practica 19\bin\Debug\net10.0-windows\Practica 19.pdb
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 19\Practica 19\obj\Debug\net10.0-windows\Practica_19.Form1.resources
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 19\Practica 19\obj\Debug\net10.0-windows\Practica 19.csproj.GenerateResource.cache
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 19\Practica 19\obj\Debug\net10.0-windows\Practica 19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 19\Practica 19\obj\Debug\net10.0-windows\Practica 19.AssemblyInfoInputs.cache
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 19\Practica 19\obj\Debug\net10.0-windows\Practica 19.AssemblyInfo.cs
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 19\Practica 19\obj\Debug\net10.0-windows\Practica 19.csproj.CoreCompileInputs.cache
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 19\Practica 19\obj\Debug\net10.0-windows\Practica 19.dll
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 19\Practica 19\obj\Debug\net10.0-windows\refint\Practica 19.dll
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 19\Practica 19\obj\Debug\net10.0-windows\Practica 19.pdb
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 19\Practica 19\obj\Debug\net10.0-windows\Practica 19.genruntimeconfig.cache
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 19\Practica 19\obj\Debug\net10.0-windows\ref\Practica 19.dll

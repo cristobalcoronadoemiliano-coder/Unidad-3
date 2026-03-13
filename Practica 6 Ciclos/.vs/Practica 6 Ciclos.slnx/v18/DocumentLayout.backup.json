@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nelpr\\OneDrive\\Escritorio\\Programacion\\Practica 6 Ciclos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9307F40-7438-148F-BB7A-F3CA86FFB4EA}|Practica 6 Ciclos\\Practica 6 Ciclos.csproj|c:\\users\\nelpr\\onedrive\\escritorio\\programacion\\practica 6 ciclos\\practica 6 ciclos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9307F40-7438-148F-BB7A-F3CA86FFB4EA}|Practica 6 Ciclos\\Practica 6 Ciclos.csproj|solutionrelative:practica 6 ciclos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C218D05-C270-4AA2-AAEB-92FD9606A882}|Practica 6 Ciclos\\Practica 6 Ciclos.csproj|C:\\Users\\nelpr\\OneDrive\\Escritorio\\Programacion\\Practica 6 Ciclos\\practica 6 ciclos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C218D05-C270-4AA2-AAEB-92FD9606A882}|Practica 6 Ciclos\\Practica 6 Ciclos.csproj|solutionrelative:practica 6 ciclos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9307F40-7438-148F-BB7A-F3CA86FFB4EA}|Practica 6 Ciclos\\Practica 6 Ciclos.csproj|c:\\users\\nelpr\\onedrive\\escritorio\\programacion\\practica 6 ciclos\\practica 6 ciclos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9307F40-7438-148F-BB7A-F3CA86FFB4EA}|Practica 6 Ciclos\\Practica 6 Ciclos.csproj|solutionrelative:practica 6 ciclos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nelpr\\OneDrive\\Escritorio\\Programacion\\Practica 6 Ciclos\\Practica 6 Ciclos\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica 6 Ciclos\\Form1.cs",
+              "ToolTip": "C:\\Users\\nelpr\\OneDrive\\Escritorio\\Programacion\\Practica 6 Ciclos\\Practica 6 Ciclos\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica 6 Ciclos\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T21:47:02.734Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nelpr\\OneDrive\\Escritorio\\Programacion\\Practica 6 Ciclos\\Practica 6 Ciclos\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica 6 Ciclos\\Form1.cs",
+              "ToolTip": "C:\\Users\\nelpr\\OneDrive\\Escritorio\\Programacion\\Practica 6 Ciclos\\Practica 6 Ciclos\\Form1.cs",
+              "RelativeToolTip": "Practica 6 Ciclos\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T19:23:30.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nelpr\\OneDrive\\Escritorio\\Programacion\\Practica 6 Ciclos\\Practica 6 Ciclos\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica 6 Ciclos\\Form1.cs",
+              "ToolTip": "C:\\Users\\nelpr\\OneDrive\\Escritorio\\Programacion\\Practica 6 Ciclos\\Practica 6 Ciclos\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica 6 Ciclos\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T19:16:56.275Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

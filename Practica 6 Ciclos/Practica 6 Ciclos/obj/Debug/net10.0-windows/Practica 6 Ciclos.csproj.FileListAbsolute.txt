@@ -1,0 +1,16 @@
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 6 Ciclos\Practica 6 Ciclos\obj\Debug\net10.0-windows\Practica_6_Ciclos.Form1.resources
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 6 Ciclos\Practica 6 Ciclos\obj\Debug\net10.0-windows\Practica 6 Ciclos.csproj.GenerateResource.cache
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 6 Ciclos\Practica 6 Ciclos\obj\Debug\net10.0-windows\Practica 6 Ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 6 Ciclos\Practica 6 Ciclos\obj\Debug\net10.0-windows\Practica 6 Ciclos.AssemblyInfoInputs.cache
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 6 Ciclos\Practica 6 Ciclos\obj\Debug\net10.0-windows\Practica 6 Ciclos.AssemblyInfo.cs
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 6 Ciclos\Practica 6 Ciclos\obj\Debug\net10.0-windows\Practica 6 Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 6 Ciclos\Practica 6 Ciclos\bin\Debug\net10.0-windows\Practica 6 Ciclos.exe
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 6 Ciclos\Practica 6 Ciclos\bin\Debug\net10.0-windows\Practica 6 Ciclos.deps.json
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 6 Ciclos\Practica 6 Ciclos\bin\Debug\net10.0-windows\Practica 6 Ciclos.runtimeconfig.json
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 6 Ciclos\Practica 6 Ciclos\bin\Debug\net10.0-windows\Practica 6 Ciclos.dll
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 6 Ciclos\Practica 6 Ciclos\bin\Debug\net10.0-windows\Practica 6 Ciclos.pdb
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 6 Ciclos\Practica 6 Ciclos\obj\Debug\net10.0-windows\Practica 6 Ciclos.dll
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 6 Ciclos\Practica 6 Ciclos\obj\Debug\net10.0-windows\refint\Practica 6 Ciclos.dll
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 6 Ciclos\Practica 6 Ciclos\obj\Debug\net10.0-windows\Practica 6 Ciclos.pdb
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 6 Ciclos\Practica 6 Ciclos\obj\Debug\net10.0-windows\Practica 6 Ciclos.genruntimeconfig.cache
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 6 Ciclos\Practica 6 Ciclos\obj\Debug\net10.0-windows\ref\Practica 6 Ciclos.dll

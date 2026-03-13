@@ -1,0 +1,16 @@
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Nomina\Nomina\bin\Debug\net10.0-windows\Nomina.exe
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Nomina\Nomina\bin\Debug\net10.0-windows\Nomina.deps.json
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Nomina\Nomina\bin\Debug\net10.0-windows\Nomina.runtimeconfig.json
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Nomina\Nomina\bin\Debug\net10.0-windows\Nomina.dll
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Nomina\Nomina\bin\Debug\net10.0-windows\Nomina.pdb
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Nomina\Nomina\obj\Debug\net10.0-windows\Nomina.Form1.resources
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Nomina\Nomina\obj\Debug\net10.0-windows\Nomina.csproj.GenerateResource.cache
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Nomina\Nomina\obj\Debug\net10.0-windows\Nomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Nomina\Nomina\obj\Debug\net10.0-windows\Nomina.AssemblyInfoInputs.cache
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Nomina\Nomina\obj\Debug\net10.0-windows\Nomina.AssemblyInfo.cs
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Nomina\Nomina\obj\Debug\net10.0-windows\Nomina.csproj.CoreCompileInputs.cache
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Nomina\Nomina\obj\Debug\net10.0-windows\Nomina.dll
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Nomina\Nomina\obj\Debug\net10.0-windows\refint\Nomina.dll
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Nomina\Nomina\obj\Debug\net10.0-windows\Nomina.pdb
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Nomina\Nomina\obj\Debug\net10.0-windows\Nomina.genruntimeconfig.cache
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Nomina\Nomina\obj\Debug\net10.0-windows\ref\Nomina.dll

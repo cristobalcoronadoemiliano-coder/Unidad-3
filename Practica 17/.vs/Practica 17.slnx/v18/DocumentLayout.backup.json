@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nelpr\\OneDrive\\Escritorio\\Programacion\\Practica 17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5C118C-9849-424A-D9B5-E761C69257B7}|Practica 17\\Practica 17.csproj|c:\\users\\nelpr\\onedrive\\escritorio\\programacion\\practica 17\\practica 17\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D5C118C-9849-424A-D9B5-E761C69257B7}|Practica 17\\Practica 17.csproj|solutionrelative:practica 17\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5C118C-9849-424A-D9B5-E761C69257B7}|Practica 17\\Practica 17.csproj|c:\\users\\nelpr\\onedrive\\escritorio\\programacion\\practica 17\\practica 17\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5C118C-9849-424A-D9B5-E761C69257B7}|Practica 17\\Practica 17.csproj|solutionrelative:practica 17\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nelpr\\OneDrive\\Escritorio\\Programacion\\Practica 17\\Practica 17\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica 17\\Form1.cs",
+              "ToolTip": "C:\\Users\\nelpr\\OneDrive\\Escritorio\\Programacion\\Practica 17\\Practica 17\\Form1.cs",
+              "RelativeToolTip": "Practica 17\\Form1.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAArwBMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T16:02:26.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nelpr\\OneDrive\\Escritorio\\Programacion\\Practica 17\\Practica 17\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica 17\\Form1.cs",
+              "ToolTip": "C:\\Users\\nelpr\\OneDrive\\Escritorio\\Programacion\\Practica 17\\Practica 17\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica 17\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T15:58:41.271Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

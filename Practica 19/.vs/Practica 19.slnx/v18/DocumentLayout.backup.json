@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nelpr\\OneDrive\\Escritorio\\Programacion\\Practica 19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD696FE-C340-FF73-FFAE-F06DF1C429D4}|Practica 19\\Practica 19.csproj|c:\\users\\nelpr\\onedrive\\escritorio\\programacion\\practica 19\\practica 19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD696FE-C340-FF73-FFAE-F06DF1C429D4}|Practica 19\\Practica 19.csproj|solutionrelative:practica 19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD696FE-C340-FF73-FFAE-F06DF1C429D4}|Practica 19\\Practica 19.csproj|c:\\users\\nelpr\\onedrive\\escritorio\\programacion\\practica 19\\practica 19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDD696FE-C340-FF73-FFAE-F06DF1C429D4}|Practica 19\\Practica 19.csproj|solutionrelative:practica 19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87776FC-0A89-47AE-B79E-3750C590AA09}|Practica 19\\Practica 19.csproj|C:\\Users\\nelpr\\OneDrive\\Escritorio\\Programacion\\Practica 19\\practica 19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A87776FC-0A89-47AE-B79E-3750C590AA09}|Practica 19\\Practica 19.csproj|solutionrelative:practica 19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nelpr\\OneDrive\\Escritorio\\Programacion\\Practica 19\\Practica 19\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica 19\\Form1.cs",
+              "ToolTip": "C:\\Users\\nelpr\\OneDrive\\Escritorio\\Programacion\\Practica 19\\Practica 19\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica 19\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T21:38:51.11Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nelpr\\OneDrive\\Escritorio\\Programacion\\Practica 19\\Practica 19\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica 19\\Form1.cs",
+              "ToolTip": "C:\\Users\\nelpr\\OneDrive\\Escritorio\\Programacion\\Practica 19\\Practica 19\\Form1.cs",
+              "RelativeToolTip": "Practica 19\\Form1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwCcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T17:06:58.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nelpr\\OneDrive\\Escritorio\\Programacion\\Practica 19\\Practica 19\\Form1.cs",
+              "RelativeDocumentMoniker": "Practica 19\\Form1.cs",
+              "ToolTip": "C:\\Users\\nelpr\\OneDrive\\Escritorio\\Programacion\\Practica 19\\Practica 19\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica 19\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T17:00:52.713Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

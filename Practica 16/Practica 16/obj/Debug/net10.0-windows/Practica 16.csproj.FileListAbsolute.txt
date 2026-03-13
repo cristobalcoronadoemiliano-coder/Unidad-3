@@ -1,0 +1,16 @@
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 16\Practica 16\obj\Debug\net10.0-windows\Practica_16.Form1.resources
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 16\Practica 16\obj\Debug\net10.0-windows\Practica 16.csproj.GenerateResource.cache
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 16\Practica 16\obj\Debug\net10.0-windows\Practica 16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 16\Practica 16\obj\Debug\net10.0-windows\Practica 16.AssemblyInfoInputs.cache
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 16\Practica 16\obj\Debug\net10.0-windows\Practica 16.AssemblyInfo.cs
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 16\Practica 16\obj\Debug\net10.0-windows\Practica 16.csproj.CoreCompileInputs.cache
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 16\Practica 16\bin\Debug\net10.0-windows\Practica 16.exe
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 16\Practica 16\bin\Debug\net10.0-windows\Practica 16.deps.json
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 16\Practica 16\bin\Debug\net10.0-windows\Practica 16.runtimeconfig.json
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 16\Practica 16\bin\Debug\net10.0-windows\Practica 16.dll
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 16\Practica 16\bin\Debug\net10.0-windows\Practica 16.pdb
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 16\Practica 16\obj\Debug\net10.0-windows\Practica 16.dll
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 16\Practica 16\obj\Debug\net10.0-windows\refint\Practica 16.dll
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 16\Practica 16\obj\Debug\net10.0-windows\Practica 16.pdb
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 16\Practica 16\obj\Debug\net10.0-windows\Practica 16.genruntimeconfig.cache
+C:\Users\nelpr\OneDrive\Escritorio\Programacion\Practica 16\Practica 16\obj\Debug\net10.0-windows\ref\Practica 16.dll
